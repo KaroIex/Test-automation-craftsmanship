@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation
+/.vs/Test automation craftsmanship/DesignTimeBuild
+/.vs/Test automation craftsmanship/FileContentIndex
+/.vs/Test automation craftsmanship/v17/TestStore/0
+*.v2
+*.suo
+/.vs/Test automation craftsmanship/v17/DocumentLayout.json
+/Lab1/bin/Debug/net8.0
+/Lab1/obj
+/Lab2TDD/bin/Debug/net8.0
+/Lab2TDD/obj
+/Lab1ZADANIA.zip
+/Lab2TDD.zip
