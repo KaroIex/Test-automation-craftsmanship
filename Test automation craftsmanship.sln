@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2TDD", "Lab2TDD\Lab2TDD.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3Mock", "Lab3Mock\Lab3Mock.csproj", "{F4D47CE4-18E8-459D-9D14-79070215132A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4Selenium", "Lab4Selenium\Lab4Selenium.csproj", "{18519B0C-2308-4A68-835A-24FD442EBDD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4Selenium", "Lab4Selenium\Lab4Selenium.csproj", "{18519B0C-2308-4A68-835A-24FD442EBDD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5SeleniumWebDriver", "Lab5SeleniumWebDriver\Lab5SeleniumWebDriver.csproj", "{4E7C09B2-ADF3-4056-B7B3-240F90277D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab9BDD", "Lab8BDD\Lab9BDD.csproj", "{617CBDC9-C212-46D0-8162-58BAC83E8140}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{18519B0C-2308-4A68-835A-24FD442EBDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18519B0C-2308-4A68-835A-24FD442EBDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18519B0C-2308-4A68-835A-24FD442EBDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7C09B2-ADF3-4056-B7B3-240F90277D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7C09B2-ADF3-4056-B7B3-240F90277D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7C09B2-ADF3-4056-B7B3-240F90277D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7C09B2-ADF3-4056-B7B3-240F90277D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617CBDC9-C212-46D0-8162-58BAC83E8140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617CBDC9-C212-46D0-8162-58BAC83E8140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617CBDC9-C212-46D0-8162-58BAC83E8140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617CBDC9-C212-46D0-8162-58BAC83E8140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
