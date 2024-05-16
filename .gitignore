@@ -20,3 +20,6 @@
 /Lab4Selenium/obj/Debug/net8.0
 /Lab4Selenium/obj
 *.zip
+/Lab5SeleniumWebDriver
+/Lab9BDD/bin/Debug/net8.0
+/Lab9BDD/obj
